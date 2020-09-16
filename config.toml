@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://orbitor-hugo.netlify.com/"
+baseURL = "https://abcd.netlify.com/"
 languageCode = "en-us"
 title = "Orbitor Hugo - Software Company Template"
 theme = "orbitor-hugo"
