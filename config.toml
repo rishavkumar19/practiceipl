@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://viratbestplayer.netlify.app/"
 languageCode = "en-us"
-title = "best cricketer"
+title = "Virat Kohli"
 theme = "orbitor-hugo"
 summaryLength = "10"
 paginate = 4
