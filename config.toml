@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://viratbestplayer.netlify.app/"
 languageCode = "en-us"
-title = "Orbitor Hugo - Software Company Template"
+title = "best cricketer"
 theme = "orbitor-hugo"
 summaryLength = "10"
 paginate = 4
