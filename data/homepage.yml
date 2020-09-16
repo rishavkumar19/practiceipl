@@ -1,20 +1,19 @@
 ####################### Banner ##########################################
 banner:
   enable: true
-  bgImage : "images/bg/main-banner1.jpg"
-  subtitle : "The most powerful Solution"
-  title : "Digital experience with Orbitor"
-  content : "Veritatis earum aliquid doloribus molestias, eveniet molestiae aperiam ratione. Facilis
-            velit voluptatibus impedit eligendi delectus illo earum voluptatum, laudantium molestiae!"
+  bgImage : "images/bg/main-banner3.jpg"
+  subtitle : "The most powerful batsman"
+  title : "The bat is not a toy, it's a weapon"
+  content : "veteran virat kohli"
   button:
     enable : true
-    label : "Learn more about Digicon"
+    label : "Read more about Virat Kohli"
     link : "about"
 
 
 ########################### Banner feature ################################
 bannerFeature:
-  enable : true
+  enable : false
   featureItem:
     # feature item loop
     - icon : "ti-light-bulb" # here we use themify icon pack : https://themify.me/themify-icons
@@ -33,7 +32,7 @@ bannerFeature:
 
 ########################## features #######################################
 feature:
-  enable : true
+  enable : false
   subtitle : "Why choose us"
   title : "We help you to make work easy"
   content : "We understand what your business means to you,your requirements considering trends.Smet nemo excepturi voluptas eligendi ."
@@ -60,7 +59,7 @@ feature:
 
 ########################### Call to action #####################################
 cta:
-  enable: true
+  enable: false
   title : "Assurance Service In Software Testing"
   content : "An Independent Validation and Testing services from SISAR. Helps to reduce software development efforts"
   button:
@@ -70,7 +69,7 @@ cta:
 
 ################################### portfolio ####################################
 project:
-  enable: true
+  enable: false
   title : "We’ve Done Lot’s of Work, Let’s Check Some From Here"
   content : "We have the best experts to elevate your business to the next level, try is and you will see! We have the best experts to elevate your"
 
@@ -81,28 +80,23 @@ counter:
   enable : true
   counterItem :
     # counter item loop
-    - title : "Project Done"
-      count : "1730"
+    - title : "Odi Centuries"
+      count : "40"
       unit : "+"
       
     # counter item loop
-    - title : "User Worldwide"
-      count : "125"
-      unit : "M"
+    - title : "Test Centuries"
+      count : "25"
+      unit : "+"
       
     # counter item loop
-    - title : "Availble Country"
-      count : "39"
-      unit : ""
-      
-    # counter item loop
-    - title : "Award Winner"
-      count : "14"
-      unit : ""
-
+    - title : "Ipl Centuries"
+      count : "4"
+      unit : "+"
+          
 ########################## Testimonial #############################################
 testimonial:
-  enable: true
+  enable: false
   title : "What they say about us"
   content : "They are truely amazing in the industry ,molestiae expedita aspernatur officia, similique minima
             laudantium. Corrupti ipsa perspiciatis commodi nesciunt rerum mollitia enim voluptate!"
