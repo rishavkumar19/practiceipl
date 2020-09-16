@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://abcd.netlify.com/"
+baseURL = "https://viratbestplayer.netlify.app/"
 languageCode = "en-us"
 title = "Orbitor Hugo - Software Company Template"
 theme = "orbitor-hugo"
