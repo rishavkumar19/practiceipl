@@ -151,7 +151,7 @@ paginate = 4
 #################### default parameters ################################
 [params]
 logo = "images/virat5.jpg"
-logoAlt = "images/logo-w.png"
+logoAlt = "images/virat5.jpg"
 home = "Home"
 # Meta data
 description = "This is meta description"
@@ -171,11 +171,11 @@ copyright = "&copy; Copyright Reserved to <span class=\"text-color\">Orbitor</sp
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
 
   # Navigation button
   [params.navBtn]
-  enable = true
+  enable = false
   label = "Get an estimate"
   link = "contact"
 
